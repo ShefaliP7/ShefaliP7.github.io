@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
- <meta charset="UTF-8">
-<title>Shefali Pandey</title>
+ <title>Shefali Pandey</title>
 </head>
-<body bgcolor="#d0c9ec">
+<body bgcolor="#D0C9EC">
   <header>
     <h1>Welcome to My Website</h1>
   </header>
