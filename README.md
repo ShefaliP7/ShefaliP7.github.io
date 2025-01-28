@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+   <title>Shefali Pandey</title>
 </head>
 <body bgcolor="#D0C9EC">
   <header>
