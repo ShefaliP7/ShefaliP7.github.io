@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
    <title>Shefali Pandey</title>
 </head>
-<body bgcolor="#D0C9EC">
+<body bgcolor="#Lavender">
   <header>
     <h1>Welcome to My Website</h1>
   </header>
