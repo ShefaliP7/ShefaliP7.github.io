@@ -11,7 +11,6 @@
  <a href="index.html">Home</a>
  <a href="portfolio.html">Portfolio</a>
  <a href="aboutme.html">About Me</a>
- <center style="background-color:Violet;">
       <h1>Home</h1>
       <img src="https://ssl.cdn-redfin.com/photo/45/bigphoto/163/140024163_0.jpg" height="400" alt="centered image" class="aligncenter">
       <h2>Backyard One</h2>
